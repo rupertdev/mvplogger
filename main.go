@@ -1,4 +1,6 @@
-package mvplogger
+package main
+
+import "mvplogger/server"
 func main() {
-	server.run()
+	server.RunServer()
 }

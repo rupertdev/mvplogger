@@ -1,9 +1,9 @@
-package mvplogger
+package server
 
 import (
-    "fmt"
+	"fmt"
 )
 
-func run() {
+func RunServer() {
     fmt.Println("!oG ,olleH")
 }
